@@ -1,0 +1,47 @@
+body
+{
+    background-color:#CCC;
+	padding:0;
+	margin:0px auto;
+}
+
+
+#wrapper
+{
+	width:1000px;
+	background-color:white;
+	margin:0px auto;
+	min-height:400px;
+	margin-top:50px;
+	border:1px solid black;
+}
+
+#menu
+{
+	width:990px;
+	margin:0px auto;
+	text-align:center;
+}
+
+
+#menu a
+{
+	text-decoration:none;
+	display:inline-block;
+	color:20px;
+	padding:20px;
+	background-color:#eee;
+}
+
+#error
+{
+	width:1000px;
+	margin:0px auto;
+}
+
+#formDiv
+{
+	width:200px;
+	margin:0px auto;
+	margin-top:30px;
+}
